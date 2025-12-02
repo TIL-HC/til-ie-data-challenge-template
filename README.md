@@ -23,7 +23,7 @@ You must:
 
 ## 📂 The Data
 The data is hosted at the following URL:
-* **URL:** [INSERT_YOUR_S3_URL_HERE]
+* **URL:** [INSERT_S3_URL_HERE]
 * **Format:** CSV (Header included)
 * **Files included:** `sales_transactions.csv`, `rebate_transactions.csv`
 
@@ -47,7 +47,7 @@ A PDF or Slide Deck (Max 5 slides) addressed to the **Head of Sales**.
 
 ## 🚀 How to Start the Challenge
 1.  Create a repository using the **til-ie-data-challenge-template**.
-2.  Name the repository **til-ie-data-challenge-[first name]-[last name]**.
+2.  Name the repository **til-ie-data-challenge-[first name]-[last name]** and make sure it's **private**.
 3.  Click the **Code** button (green) in GitHub.
 4.  Select the **Codespaces** tab.
 5.  Click **Create codespace on main**.
