@@ -16,7 +16,8 @@
             "extensions": [
                 "ms-python.python",
                 "ms-python.pylance",
-                "njpwerner.autodocstring"
+                "njpwerner.autodocstring",
+                "ms-toolsai.jupyter"
             ]
         }
     },
