@@ -5,6 +5,7 @@
 !src/
 !.devcontainer/
 !tests/
+!*.ipynb
 !*.py
 !*.md
 !*.txt
