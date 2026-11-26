@@ -3,7 +3,7 @@
 ## 🏢 The Client Scenario
 Your client is a large retail company. They are currently struggling to reconcile their **Sales** data with their **Rebates** data. The Head of Sales is concerned about data quality and needs a reliable view of performance.
 
-They have provided two raw datasets but are unable to match them up accurately to calculate the true net revenue per region.
+They have provided two raw datasets but are unable to match them up accurately to calculate the true net revenue per sales region.
 
 ## 🎯 The Objective
 You have been asked to deliver a Proof of Concept (POC) pipeline. 
